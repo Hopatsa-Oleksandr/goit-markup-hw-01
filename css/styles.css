@@ -1,3 +1,132 @@
-.accent {
-  color: blue;
+.web-studio {
+	color: blue;
+}
+
+.contacts-link {
+	position: absolute;
+	height: 16px;
+	left: 1078px;
+	top: 32px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #2196F3;
+}
+.contacts-link2 {
+	position: absolute;
+width: 122px;
+height: 16px;
+left: 1263px;
+top: 32px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #757575;
+}
+.contacts-link-type {
+	position: absolute;
+width: 153px;
+height: 31px;
+left: 215px;
+top: 24px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;
+
+/* identical to box height */
+letter-spacing: 0.03em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.site-nav {
+	position: absolute;
+width: 49px;
+height: 46px;
+left: 453px;
+top: 34px;
+}
+
+.studio{
+	position: absolute;
+width: 49px;
+height: 15.33px;
+left: 453px;
+top: 34px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #2196F3;
+}
+.portfolio {
+position: absolute;
+width: 77px;
+height: 15.33px;
+left: 552px;
+top: 34px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+}
+.contacts {
+	position: absolute;
+width: 68px;
+height: 15.33px;
+left: 679px;
+top: 34px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+}
+.Logo1 {
+	position: absolute;
+left: 65.75%;
+right: 33.25%;
+top: 1.16%;
+bottom: 98.45%;
+
+color: #2196F3;
+}
+.Logo2 {
+	position: absolute;
+left: 77.78%;
+right: 22.16%;
+top: 1.56%;
+bottom: 98.41%;
+
+color: #757575;
+}
+.Web {
+	color blue
 }
